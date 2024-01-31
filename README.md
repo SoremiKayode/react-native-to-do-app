@@ -26,8 +26,8 @@ A simple to-do list app built with React Native, allowing users to add and delet
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-native-todo-app.git
-   cd react-native-todo-app
+   git clone https://github.com/SoremiKayode/react-to-do-app
+   cd react-to-do-app
 
 2. Install dependencies: npm install
 3. Run the app on an Expo Go, Download Expo Go on your Android Device then run  'npm start'
